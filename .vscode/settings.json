@@ -1,0 +1,10 @@
+{
+    "editor.indentSize": 4,
+    "[typescript][typescriptreact][javascript][javascriptreact]": {
+        "editor.formatOnPaste": false,
+        "editor.formatOnSave": false,
+        "editor.codeActionsOnSave": {
+            "source.fixAll.eslint": "always"
+        }
+    }
+}
